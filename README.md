@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stahir90
-- 👀 I’m interested in Fullstack technology with frontend heavy.
+- 👀 I’m interested in Fullstack technology and GenAI.
 - 📫 Please reach me at stahir.net@gmail.com
 
 <!---
